@@ -1,0 +1,12 @@
+{
+  "name": "eggpress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev"
+  },
+  "devDependencies": {
+    "vuepress": "^0.10.0"
+  }
+}
